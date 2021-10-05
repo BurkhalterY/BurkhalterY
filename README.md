@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hey !
+My name is Yannis Burkhalter. I'm apprentice developer in Switzerland. :switzerland:
+- Job : Open Net Sàrl
+- School : EPSIC
 
-<!--
-**BurkhalterY/BurkhalterY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I like
+- Retrogaming collection :video_game:
+- Manga/anime
+- Rubik's cube (but I'm slow ^^')
+- Learning foreign language :fr:, :us:, :de:, :it:, :jp: (but I'm bad ^^')
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+- [Discord](https://discord.gg/z67yZjh)
+- [GitHub](https://github.com/BurkhalterY) ← You're here !
+- [LinkedIn](https://www.linkedin.com/in/yannis-burkhalter/)
+- [YouTube](https://www.youtube.com/channel/UCbv1uNvn53SHwSSY19luZvQ)
