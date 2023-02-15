@@ -46,8 +46,9 @@ My name is Yannis Burkhalter. I'm a swiss developer.
 
 ### Links
 
-- [Portfolio on GitHub Pages](https://burkhaltery.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/yannis-burkhalter)
+- [Portfolio on GitHub Pages](https://burkhaltery.github.io/en)
 - [GitHub](https://github.com/BurkhalterY) ← You're here!
+- [LinkedIn](https://www.linkedin.com/in/yannis-burkhalter)
 - [Discord Server](https://discord.gg/z67yZjh)
 - [YouTube Channel](https://www.youtube.com/channel/UCbv1uNvn53SHwSSY19luZvQ)
+- [Tinder](https://tinder.com/@YBU)
