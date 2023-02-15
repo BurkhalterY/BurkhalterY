@@ -47,7 +47,8 @@ Je m'appelle Yannis Burkhalter.
 ### Liens
 
 - [Mon portfolio sur GitHub Pages](https://burkhaltery.github.io/fr)
-- [LinkedIn](https://www.linkedin.com/in/yannis-burkhalter)
 - [GitHub](https://github.com/BurkhalterY) ← Vous êtes ici !
+- [LinkedIn](https://www.linkedin.com/in/yannis-burkhalter)
 - [Serveur Discord](https://discord.gg/z67yZjh)
 - [Chaîne YouTube](https://www.youtube.com/channel/UCbv1uNvn53SHwSSY19luZvQ)
+- [Tinder](https://tinder.com/@YBU)
