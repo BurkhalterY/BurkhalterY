@@ -1,4 +1,4 @@
-[**English**][[Français](README.md)]
+[**English**][[Français](LISEZMOI.md)]
 
 # Hey!
 
