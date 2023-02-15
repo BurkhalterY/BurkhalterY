@@ -1,3 +1,5 @@
+[**English**][[Français](README.md)]
+
 # Hey!
 
 My name is Yannis Burkhalter. I'm a swiss developer.
@@ -46,6 +48,6 @@ My name is Yannis Burkhalter. I'm a swiss developer.
 
 - [Portfolio on GitHub Pages](https://burkhaltery.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/yannis-burkhalter)
-- [GitHub](https://github.com/BurkhalterY) ← You're here !
+- [GitHub](https://github.com/BurkhalterY) ← You're here!
 - [Discord Server](https://discord.gg/z67yZjh)
 - [YouTube Channel](https://www.youtube.com/channel/UCbv1uNvn53SHwSSY19luZvQ)
