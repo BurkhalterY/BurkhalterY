@@ -6,21 +6,20 @@ My name is Yannis Burkhalter. I'm a swiss developer.
 
 - Programming :man_technologist:
 - Retrogaming collection :video_game:
-- Manga/anime :crossed_flags:
+- Mangas/animes :crossed_flags:
 
 ## Skills
 
 ### Programming
 
 - HTML, CSS, JavaScript
-- Vue.js
-- SQL
+- Vue.js, Tailwind, GraphQL
 - Python, PHP, C#, Java
 
 ### OS
 
 - Windows
-- Linux
+- Ubuntu
 - Android
 
 ### Softwares
@@ -34,18 +33,18 @@ My name is Yannis Burkhalter. I'm a swiss developer.
 - :fr: French
 - :gb: English
 
-## Formation
+## Education
 
 - Information Technologist, Federal VET Diploma, oriented development, at EPSIC, Lausanne (2018 - 2022)
 
 ## Contact
 
-- E-mail : 	yannis@burkhalter.dev
+- E-mail : yannis@burkhalter.dev
 - Discord : aestetica#9521
 
-## Links
+### Links
 
-- [CV on GitHub Pages](https://burkhaltery.github.io/)
+- [Portfolio on GitHub Pages](https://burkhaltery.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/yannis-burkhalter)
 - [GitHub](https://github.com/BurkhalterY) ← You're here !
 - [Discord Server](https://discord.gg/z67yZjh)
