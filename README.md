@@ -51,4 +51,3 @@ My name is Yannis Burkhalter. I'm a swiss developer.
 - [LinkedIn](https://www.linkedin.com/in/yannis-burkhalter)
 - [Discord Server](https://discord.gg/z67yZjh)
 - [YouTube Channel](https://www.youtube.com/channel/UCbv1uNvn53SHwSSY19luZvQ)
-- [Tinder](https://tinder.com/@YBU)

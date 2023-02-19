@@ -51,4 +51,3 @@ Je m'appelle Yannis Burkhalter.
 - [LinkedIn](https://www.linkedin.com/in/yannis-burkhalter)
 - [Serveur Discord](https://discord.gg/z67yZjh)
 - [Chaîne YouTube](https://www.youtube.com/channel/UCbv1uNvn53SHwSSY19luZvQ)
-- [Tinder](https://tinder.com/@YBU)
