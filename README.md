@@ -41,8 +41,8 @@ My name is Yannis Burkhalter. I'm a swiss developer.
 
 ## Contact
 
-- E-mail : yannis@burkhalter.dev
-- Discord : aestetica#9521
+- E-mail: yannis@burkhalter.dev
+- Discord: aestetica#9521
 
 ### Links
 
