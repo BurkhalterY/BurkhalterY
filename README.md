@@ -8,7 +8,7 @@ My name is Yannis Burkhalter. I'm a swiss developer.
 
 - Programming :man_technologist:
 - Retrogaming collection :video_game:
-- Mangas/animes :crossed_flags:
+- Mangas/anime :crossed_flags:
 
 ## Skills
 
