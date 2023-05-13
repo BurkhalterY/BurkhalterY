@@ -2,9 +2,9 @@
 
 # Wesh !
 
-Je m'appelle Yannis Burkhalter.
+Moi c'est Yannis et je suis développeur.
 
-## J'aime
+## Passions
 
 - La programmation :man_technologist:
 - Le retrogaming (collection) :video_game:
@@ -14,9 +14,8 @@ Je m'appelle Yannis Burkhalter.
 
 ### Programmation
 
-- HTML, CSS, JavaScript
-- Vue.js, Tailwind, GraphQL
-- Python, PHP, C#, Java
+- Vue.js, Python, GraphQL
+- C#, PHP, Java
 
 ### Systèmes d'exploitation
 
@@ -27,8 +26,8 @@ Je m'appelle Yannis Burkhalter.
 ### Logiciels
 
 - Microsoft Office
-- Paint.NET
 - Odoo
+- Paint.NET
 
 ### Langues
 

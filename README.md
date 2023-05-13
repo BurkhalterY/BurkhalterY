@@ -2,7 +2,7 @@
 
 # Hey!
 
-My name is Yannis Burkhalter. I'm a swiss developer.
+My name is Yannis. I'm a swiss developer.
 
 ## I like
 
@@ -14,9 +14,8 @@ My name is Yannis Burkhalter. I'm a swiss developer.
 
 ### Programming
 
-- HTML, CSS, JavaScript
-- Vue.js, Tailwind, GraphQL
-- Python, PHP, C#, Java
+- Vue.js, Python, GraphQL
+- C#, PHP, Java
 
 ### OS
 
@@ -27,8 +26,8 @@ My name is Yannis Burkhalter. I'm a swiss developer.
 ### Softwares
 
 - Microsoft Office
-- Paint.NET
 - Odoo
+- Paint.NET
 
 ### Languages
 
