@@ -49,4 +49,4 @@ I'm Yannis, a Swiss developer.
 - [GitHub](https://github.com/BurkhalterY) ← You're here!
 - [LinkedIn](https://www.linkedin.com/in/yannis-burkhalter)
 
-**I will be at [Odoo Experience 2023](https://www.odoo.com/event/odoo-experience-2023-3735/page/oxp23-introduction) from November 8<sup>th</sup> in Brussels to 10<sup>th</sup> to talk about our cryptocurrency module bundle for Odoo ERP. Let's meet!**
+**I will be at [Odoo Experience 2023](https://www.odoo.com/event/odoo-experience-2023-3735/page/oxp23-introduction) from November 8<sup>th</sup> to 10<sup>th</sup> in Brussels to talk about our cryptocurrency module bundle for Odoo ERP. Let's meet!**
