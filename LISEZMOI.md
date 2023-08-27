@@ -1,8 +1,8 @@
 [[English](README.md)][**Français**]
 
-# Wesh !
+# Bonjour !
 
-Moi c'est Yannis et je suis développeur.
+Je m'appelle Yannis et je suis développeur.
 
 ## Passions
 
@@ -41,10 +41,12 @@ Moi c'est Yannis et je suis développeur.
 ## Me contacter
 
 - E-mail : yannis@burkhalter.dev
-- Discord : aestetica#9521
+- Discord : [aestetica](https://discordapp.com/users/317230160124313610)
 
 ### Liens
 
 - [Mon portfolio sur GitHub Pages](https://burkhaltery.github.io/fr)
 - [GitHub](https://github.com/BurkhalterY) ← Vous êtes ici !
 - [LinkedIn](https://www.linkedin.com/in/yannis-burkhalter)
+
+**Retrouvez-moi au [Odoo Experience 2023](https://www.odoo.com/fr_FR/event/odoo-experience-2023-3735/page/oxp23-introduction) du 8 au 10 novembre à Bruxelles. Je parlerai gestion de cryptomonnaie avec l'ERP Odoo.**

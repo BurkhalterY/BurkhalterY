@@ -1,8 +1,8 @@
-[**English**][[Français](LISEZMOI.md)]
+[**English**]\[[Français](LISEZMOI.md)]
 
-# Hey!
+# Hello World!
 
-My name is Yannis. I'm a swiss developer.
+I'm Yannis, a Swiss developer.
 
 ## I like
 
@@ -38,13 +38,15 @@ My name is Yannis. I'm a swiss developer.
 
 - Information Technologist, Federal VET Diploma, oriented development, at EPSIC, Lausanne (2018 - 2022)
 
-## Contact
+## Contact me
 
-- E-mail: yannis@burkhalter.dev
-- Discord: aestetica#9521
+- Email: yannis@burkhalter.dev
+- Discord: [aestetica](https://discordapp.com/users/317230160124313610)
 
 ### Links
 
 - [Portfolio on GitHub Pages](https://burkhaltery.github.io/en)
 - [GitHub](https://github.com/BurkhalterY) ← You're here!
 - [LinkedIn](https://www.linkedin.com/in/yannis-burkhalter)
+
+**I will be at [Odoo Experience 2023](https://www.odoo.com/event/odoo-experience-2023-3735/page/oxp23-introduction) from November 8<sup>th</sup> in Brussels to 10<sup>th</sup> to talk about our cryptocurrency module bundle for Odoo ERP. Let's meet!**
