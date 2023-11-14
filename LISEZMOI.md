@@ -48,5 +48,3 @@ Je m'appelle Yannis et je suis développeur.
 - [Mon portfolio sur GitHub Pages](https://burkhaltery.github.io/fr)
 - [GitHub](https://github.com/BurkhalterY) ← Vous êtes ici !
 - [LinkedIn](https://www.linkedin.com/in/yannis-burkhalter)
-
-**Retrouvez-moi au [Odoo Experience 2023](https://www.odoo.com/fr_FR/event/odoo-experience-2023-3735/page/oxp23-introduction) du 8 au 10 novembre à Bruxelles pour parler de gestion de cryptomonnaie avec l'ERP Odoo.**
