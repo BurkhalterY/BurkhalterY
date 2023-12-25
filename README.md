@@ -1,50 +1,53 @@
-[**English**]\[[Français](LISEZMOI.md)]
+# Hi 🥸
 
-# Hello World!
+I'm Yannis, a Full Stack developer from Switzerland 🇨🇭.
 
-I'm Yannis, a Swiss developer.
+I currently work at [Open Net Sàrl](https://www.open-net.ch/).
 
-## I like
-
-- Programming :man_technologist:
-- Retrogaming collection :video_game:
-- Mangas/anime :crossed_flags:
+![](https://komarev.com/ghpvc/?username=BurkhalterY&style=for-the-badge)
 
 ## Skills
 
 ### Programming
 
-- Vue.js, Python, GraphQL
-- C#, PHP, Java
+![Python](medias/python.png)
+![Vue.js](medias/vue.png)
+![GraphQL](medias/graphql.png)
 
-### OS
+---
 
-- Windows
-- Ubuntu
-- Android
+### Operating Systems
+
+![Ubuntu](medias/ubuntu.png)
+![Windows](medias/windows.png)
+
+---
 
 ### Softwares
 
-- Microsoft Office
-- Odoo
-- Paint.NET
+![Odoo](medias/odoo.png)
+![Paint.NET](medias/paintdotnet.png)
+
+---
 
 ### Languages
 
-- :fr: French
-- :gb: English
+🇫🇷 🇬🇧
 
 ## Education
 
 - Information Technologist, Federal VET Diploma, oriented development, at EPSIC, Lausanne (2018 - 2022)
 
-## Contact me
+## Reach Me
 
-- Email: yannis@burkhalter.dev
-- Discord: [aestetica](https://discordapp.com/users/317230160124313610)
+[![yannis@burkhalter.dev](medias/email.png)](mailto:yannis@burkhalter.dev)
+[![Discord](medias/discord.png)](https://discordapp.com/users/317230160124313610)
+[![LinkedIn](medias/linkedin.png)](https://www.linkedin.com/in/yannis-burkhalter)
 
-### Links
+    Email   : yannis@burkhalter.dev
+    GitHub  : BurkhalterY
+    Discord : aestetica
 
-- [Portfolio on GitHub Pages](https://burkhaltery.github.io/en)
-- [GitHub](https://github.com/BurkhalterY) ← You're here!
-- [LinkedIn](https://www.linkedin.com/in/yannis-burkhalter)
+Some additional links:
+
+- [My portfolio on GitHub Pages](https://burkhaltery.github.io/en)
