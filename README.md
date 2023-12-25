@@ -1,8 +1,8 @@
 # Hi 🥸
 
-I'm Yannis, a Full Stack developer from Switzerland 🇨🇭.
+I'm Yannis, a Full Stack developer from Switzerland 🇨🇭
 
-I currently work at [Open Net Sàrl](https://www.open-net.ch/).
+I currently work at [Open Net Sàrl](https://www.open-net.ch/). Let's meet!
 
 ![](https://komarev.com/ghpvc/?username=BurkhalterY&style=for-the-badge)
 
