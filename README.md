@@ -6,48 +6,17 @@ I currently work at [Open Net Sàrl](https://www.open-net.ch/). Let's meet!
 
 ![](https://komarev.com/ghpvc/?username=BurkhalterY&style=for-the-badge)
 
-## Skills
+## Reach Me [ 🇫🇷 | 🇬🇧 ]
 
-### Programming
-
-![Python](medias/python.png)
-![Vue.js](medias/vue.png)
-![GraphQL](medias/graphql.png)
-
----
-
-### Operating Systems
-
-![Ubuntu](medias/ubuntu.png)
-![Windows](medias/windows.png)
-
----
-
-### Softwares
-
-![Odoo](medias/odoo.png)
-![Paint.NET](medias/paintdotnet.png)
-
----
-
-### Languages
-
-🇫🇷 🇬🇧
-
-## Education
-
-- Information Technologist, Federal VET Diploma, oriented development, at EPSIC, Lausanne (2018 - 2022)
-
-## Reach Me
-
-[![yannis@burkhalter.dev](medias/email.png)](mailto:yannis@burkhalter.dev)
-[![Discord](medias/discord.png)](https://discordapp.com/users/317230160124313610)
-[![LinkedIn](medias/linkedin.png)](https://www.linkedin.com/in/yannis-burkhalter)
+[![Email](medias/email_me.svg)](mailto:yannis@burkhalter.dev)
+[![Discord](medias/discord.svg)](https://discordapp.com/users/317230160124313610)
+[![GitHub](medias/github.svg)](https://github.com/BurkhalterY/)
+[![LinkedIn](medias/linkedin.svg)](https://www.linkedin.com/in/yannis-burkhalter)
 
     Email   : yannis@burkhalter.dev
     GitHub  : BurkhalterY
     Discord : aestetica
 
-Some additional links:
+Additional links:
 
 - [My portfolio on GitHub Pages](https://burkhaltery.github.io/en)
