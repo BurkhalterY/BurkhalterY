@@ -15,7 +15,7 @@ I currently work at [Open Net Sàrl](https://www.open-net.ch/). Let's meet!
 
     Email   : yannis@burkhalter.dev
     GitHub  : BurkhalterY
-    Discord : aestetica
+    Discord : burkhalter
 
 Additional links:
 
