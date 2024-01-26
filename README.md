@@ -9,8 +9,8 @@ I currently work at [Open Net Sàrl](https://www.open-net.ch/). Let's meet!
 ## Reach Me [ 🇫🇷 | 🇬🇧 ]
 
 [![Email](medias/email_me.svg)](mailto:yannis@burkhalter.dev)
-[![Discord](medias/discord.svg)](https://discordapp.com/users/317230160124313610)
-[![GitHub](medias/github.svg)](https://github.com/BurkhalterY/)
+[![Discord](medias/discord.svg)](https://discord.com/users/317230160124313610)
+[![GitHub](medias/github.svg)](https://github.com/BurkhalterY)
 [![LinkedIn](medias/linkedin.svg)](https://www.linkedin.com/in/yannis-burkhalter)
 
     Email   : yannis@burkhalter.dev
@@ -19,4 +19,4 @@ I currently work at [Open Net Sàrl](https://www.open-net.ch/). Let's meet!
 
 Additional links:
 
-- [My portfolio on GitHub Pages](https://burkhaltery.github.io/en)
+- [My portfolio on GitHub Pages](https://burkhaltery.github.io/)
