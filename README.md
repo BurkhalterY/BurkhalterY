@@ -4,7 +4,7 @@ I'm Yannis, a Full Stack developer from Switzerland 🇨🇭
 
 I currently work at [Open Net Sàrl](https://www.open-net.ch/). Let's meet!
 
-![](https://komarev.com/ghpvc/?username=BurkhalterY&style=for-the-badge)
+![]([https://komarev.com/ghpvc/?username=BurkhalterY&style=for-the-badge](https://github-readme-stats.vercel.app/api?username=BurkhalterY&include_all_commits=true&show_icons=true&theme=transparent))
 
 ## Reach Me [ 🇫🇷 | 🇬🇧 ]
 
@@ -13,10 +13,10 @@ I currently work at [Open Net Sàrl](https://www.open-net.ch/). Let's meet!
 [![GitHub](medias/github.svg)](https://github.com/BurkhalterY)
 [![LinkedIn](medias/linkedin.svg)](https://www.linkedin.com/in/yannis-burkhalter)
 
-    Email   : yannis@burkhalter.dev
-    GitHub  : BurkhalterY
-    Discord : burkhalter
+    Email     : yannis@burkhalter.dev
+    Discord   : burkhalter
+    GitHub    : BurkhalterY
 
 Additional links:
 
-- [My portfolio on GitHub Pages](https://burkhaltery.github.io/)
+- [Portfolio](https://burkhalter.dev)
